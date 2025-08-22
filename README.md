@@ -5,6 +5,8 @@ How to Use :
 
 
 Install Tools: Make sure all the tools listed in REQUIRED_TOOLS are installed and accessible in your shell's PATH.
+
+
 REQUIRED_TOOLS = [
     'subfinder', 'assetfinder', 'amass', 'findomain', 'httpx', 'aquatone',
     'katana', 'hakrawler', 'gau', 'waybackurls', 'gf', 'arjun', 'nuclei', 'ffuf'
